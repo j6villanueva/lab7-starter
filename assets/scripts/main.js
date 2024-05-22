@@ -65,7 +65,7 @@ function saveRecipesToStorage(recipes) {
 /**
  * Adds the necessary event handlers to <form> and the clear storage
  * <button>.
- */
+ */ 
 function initFormHandler() {
 	// B2. TODO - Get a reference to the <form> element
 	const formEl = document.querySelector("form");
